@@ -1,8 +1,6 @@
 # Fundamentos de Linguagens de Programação: Uma Abordagem Técnica
 
-## Resumo
-
-Este artigo aborda os fundamentos das linguagens de programação, explorando a definição e caracterização dos principais paradigmas de programação, bem como a prática de programação associada a esses paradigmas. A importância dos algoritmos na resolução de problemas computacionais é discutida, juntamente com a classificação das linguagens de programação em diferentes níveis de abstração e gerações. Por fim, são apresentados os principais paradigmas de programação, destacando suas características e aplicações.
+ A importância dos algoritmos na resolução de problemas computacionais é discutida, juntamente com a classificação das linguagens de programação em diferentes níveis de abstração e gerações. Por fim, são apresentados os principais paradigmas de programação, destacando suas características e aplicações.
 
 ## 1. Introdução
 
